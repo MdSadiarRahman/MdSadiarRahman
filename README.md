@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi 👋, I'm [Your Name] ✨</h1>
+<h1 align="center">✨ Hi 👋, I'm Md Sadiar Rahman ✨</h1>
 
 <p align="center">
 💻 Web Developer • 🚀 Tech Enthusiast • 🎯 Problem Solver
@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on cool web projects  
+- 🔭 I’m currently Studying B.Sc Engeering at Bangladesh Army University of Science and Technology 
 - 🌱 Learning React, Node.js & MongoDB  
 - 🎨 I love clean & colorful UI design  
 - ⚡ Fun fact: I enjoy turning ideas into code  
