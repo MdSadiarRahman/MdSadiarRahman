@@ -2,7 +2,11 @@
 <h3 align="center">CSE Student | Passionate Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CSE+Student;Passionate+Developer;Always+Learning+New+Things;Love+to+Explore+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=CSE+Student;Passionate+Developer;Always+Learning+New+Things;Love+to+Explore+Technology" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEFA&height=200&section=header&text=Md%20Sadiar%20Rahman&fontSize=35&fontColor=ffffff" />
 </p>
 
 ---
@@ -48,7 +52,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MdSadiarRahman&theme=radical&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MdSadiarRahman&theme=algolia&margin-w=4)
 
 ---
 
@@ -58,19 +62,15 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MdSadiarRahman&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MdSadiarRahman&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MdSadiarRahman&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=MdSadiarRahman&color=blue" />
 </p>
 
 ---
 
 ## 💰 Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)
-
----
-
-<!-- Fully upgraded GitHub profile -->
