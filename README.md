@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Sadiar Rahman</h1>
+<h1 align="center">Hi 👋, I'm **Md Sadiar Rahman**</h1>
 <h3 align="center">CSE Student | Passionate Developer | Tech Enthusiast</h3>
 
 <p align="center">
